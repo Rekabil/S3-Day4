@@ -15,7 +15,8 @@ p {
   border: solid black;
   width: 30px;
 }
-button {
+button,
+input {
   padding: 20px;
   background-color: cornflowerblue;
   border-radius: 15%;
